@@ -2,7 +2,7 @@
 simd: '0162'
 title: Remove Accounts `is_executable` Flag Checks
 authors:
-  - Alexander Meißner
+  - Tony Wattley
 category: Standard
 type: Core
 status: Implemented
